@@ -4,7 +4,10 @@
 
 <h2>https://ror-react-1234.herokuapp.com/</h2>
 
-Things you may want to cover:
+*<h3>THANKS TO THIS GENTLEMAN</h3>
+
+<h2>https://learnetto.com/tutorials/deploying-a-react-rails-app-to-heroku</h2>
+
 
 * Ruby version
 	
