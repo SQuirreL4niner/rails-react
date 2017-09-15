@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*<h3>URL</h3>
+
+<h2>https://ror-react-1234.herokuapp.com/</h2>
 
 Things you may want to cover:
 
@@ -18,6 +19,7 @@ Things you may want to cover:
 	Standard RoR w/React plugin
 
 * <strong>This app uses React with ES5</strong>
+
 
 * Database creation
 
@@ -45,6 +47,13 @@ Things you may want to cover:
 
 	Fire up sublime 'subl .'
 
+	For Heroku you need the cli use this command
+		wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
+
+		heroku push master to deploy
+		heroku log (locally) to check out logs
+		heroku run rake db:migrate to register PostgreSQL in web
+
 * NOTES
 
 	You need some plugins for Sublime to enjoy this
@@ -57,7 +66,7 @@ Things you may want to cover:
 	and search for plugin. Follow any instructions for 
 	plugin readme's to enable
 
-	
+
 	Babel plugin
 	Haml plugin
 	Ruby
